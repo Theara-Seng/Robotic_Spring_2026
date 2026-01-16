@@ -33,18 +33,18 @@ By completing this assignment, students will be able to:
     ├── Finger_count.py # Main program
     ├── README.md # This file
     
---- 
+
 
 ## Create a virtual environment
-
 ### Windows
-    ```bash 
-    python -m venv venv
-    ```
 
+ 
+    python -m venv venv
+
+    
 ### macOS / Linux
-    ```bash
+
     python3 -m venv venv
-    ```
+    
 
 
