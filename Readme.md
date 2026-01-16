@@ -1,11 +1,11 @@
-# 🖐️ Assignment 1: Finger Detection Using MediaPipe
+# Finger Detection Using MediaPipe
 
 This repository contains the starter code and setup instructions for **Assignment 1**.  
 The goal of this assignment is to introduce students to **computer vision**, **real-time processing**, and **basic human–computer interaction** using **Python**, **MediaPipe**, and **OpenCV**.
 
 ---
 
-## 🎯 Assignment Objectives
+## Assignment Objectives
 
 By completing this assignment, students will be able to:
 - Set up a Python development environment using virtual environments
@@ -16,7 +16,7 @@ By completing this assignment, students will be able to:
 
 ---
 
-## 🛠️ System Requirements
+## System Requirements
 
 ### Software
 - **Python 3.10 or 3.11** (recommended)
@@ -29,4 +29,22 @@ By completing this assignment, students will be able to:
 ---
 
 ## 📂 Project Structure
+    Finger_Detection_Assignment/
+    ├── Finger_count.py # Main program
+    ├── README.md # This file
+    
+--- 
+
+## Create a virtual environment
+
+### Windows
+    ```bash 
+    python -m venv venv
+    ```
+
+### macOS / Linux
+    ```bash
+    python3 -m venv venv
+    ```
+
 
