@@ -47,4 +47,8 @@ By completing this assignment, students will be able to:
     python3 -m venv venv
     
 
+## Install Required Python Libraries
+Ensure the virtual environment is activated before installing packages.
 
+    python -m pip install --upgrade pip
+    python -m pip install mediapipe==0.10.31 opencv-python
