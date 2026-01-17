@@ -71,9 +71,9 @@ Go to the terminal(path to your code) and run:
 
 And you will see the camera open with the finger-count as below
 
-![Finger Counter number 2](/Robotic_Spring_2026/image/Finger_2.png)
+![Finger Counter number 2](/image/Finger_2.png)
 
 
 
 
-![Finger Counter number 5](/Robotic_Spring_2026/image/finger_5.png)
+![Finger Counter number 5](/image/finger_5.png)
