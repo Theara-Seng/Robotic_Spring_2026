@@ -29,7 +29,8 @@ By completing this assignment, students will be able to:
 ---
 
 ## 📂 Project Structure
-    Finger_Detection_Assignment/
+Finger_Detection_Assignment/
+
     ├── Finger_count.py # Main program
     ├── README.md # This file
     
@@ -39,16 +40,40 @@ By completing this assignment, students will be able to:
 ### Windows
 
  
-    python -m venv venv
+    python3 -m venv myenv
 
     
 ### macOS / Linux
 
-    python3 -m venv venv
+    python3 -m venv myenv
     
+## Verify Installation
+
+Run in the terminal
+
+    python3 --version 
+
+You should see 
+
+    Python 3.11.9
 
 ## Install Required Python Libraries
 Ensure the virtual environment is activated before installing packages.
 
-    python -m pip install --upgrade pip
-    python -m pip install mediapipe==0.10.31 opencv-python
+    python3 -m pip install --upgrade pip
+    python3 -m pip install mediapipe==0.10.31 opencv-python
+
+## Run the program 
+
+Go to the terminal(path to your code) and run:
+
+    python3 Finger_count.py
+
+And you will see the camera open with the finger-count as below
+
+![Finger Counter number 2](/Robotic_Spring_2026/image/Finger_2.png)
+
+
+
+
+![Finger Counter number 5](/Robotic_Spring_2026/image/finger_5.png)
